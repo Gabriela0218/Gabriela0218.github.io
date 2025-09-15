@@ -1,0 +1,2 @@
+Na aula (Função arrumar 2) para organizar basta selecionar a primeira coluna 
+no caso A> DADOS > Texto pra colunas > Delimitado > Avançar> Tabulação e outros: ";" > CONCLUIR.
